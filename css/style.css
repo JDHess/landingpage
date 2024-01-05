@@ -1,0 +1,40 @@
+.author {
+    background-image: url("../img/Author.png");
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+  /*image is fixed in background all other elements are scrolling*/  
+  /*background attachement makes image fixed*/
+    position: relative;
+    background-position: top;
+    background-size: 100%;
+}
+.img1 {
+    background-image: url("../img/GnomeCover.png");
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+  /*image is fixed in background all other elements are scrolling*/  
+  /*background attachement makes image fixed*/
+    position: relative;
+    background-position: top;
+    background-size: 100%;
+  }
+  button:hover {
+    color: black !important;
+    background-color: white !important;
+  }
+  .img2 {
+    background-image: url("../img/ThorCover.png");
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+  /*image is fixed in background all other elements are scrolling*/  
+  /*background attachement makes image fixed*/
+    position: relative;
+    background-position: top;
+    background-size: 100%;
+  }
